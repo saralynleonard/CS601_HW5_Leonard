@@ -1,0 +1,18 @@
+[
+    {
+        "degree": {
+        "school": "Georgia Southern University",
+        "program": "Management Information Systems", 
+        "type": "BA", 
+        "year_conferred": "2016"
+        }
+    },
+    {
+        "degree": {
+        "school": "Boston University Metropolitan College",
+        "program": "Computer Information Systems",
+        "type": "MS", 
+        "year_conferred": "2026"
+        }
+    }
+]
